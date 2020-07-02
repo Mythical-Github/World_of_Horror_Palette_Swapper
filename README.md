@@ -55,5 +55,3 @@ Credits:
 Thanks to Crosire for his work on ReShade and the plugin(s) I based this off of.
 Thanks to Dae for his help tracking down that float bug! 
 Thanks to RacWade for their Hacker and October color palettes
-
-Extras: Sorry for the sloppy word wrapping, you can see a cleaner version of the read me in the download until I fix this
