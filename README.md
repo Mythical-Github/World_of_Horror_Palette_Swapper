@@ -11,7 +11,7 @@ Mac: No (Reshade isn't compatible with Mac)
 How to Install:
 Step 1: Download World_of_Horror_Palette_Swapper
 Step 2: locate your World of Horror .exe file
-Step 3: Place the files you downloaded where your World of Horror .exe is located (there are some extra files placed for optimal feng shui
+Step 3: Open the master folder and place the files you inside where your World of Horror .exe is located (there are some extra files placed for optimal feng shui)
 Step 4: Boot the game
 Step 5: Hit the Home key to toggle the menu. (You can change the key in the menu settings)
 Step 6: Enjoy your new palettes!
