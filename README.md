@@ -5,6 +5,8 @@ A ReShade filter for adding and using alternative palettes in World of Horror
 Made by Mythical
 You can contact me via Discord at 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵#4914 to have me add your palettes in or for whatever other reason
 
+![] (Palette_Example.gif)
+
 Operating System Compatibility List:
 Windows: Yes (Atleast 7 and up)
 Linux: Yes (requires WINE)
