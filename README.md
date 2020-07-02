@@ -1,3 +1,5 @@
+ATTENTION! Sorry for the sloppy word wrapping, please read the read me in the download until I fix this as it messes with the syntax
+
 # World_of_Horror_Palette_Swapper
 A ReShade filter for adding and using alternative palettes in World of Horror
 Made by Mythical
