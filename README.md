@@ -36,6 +36,7 @@ Example (after):
 (0.752941,0.752941,0.752941);
 (0.501961,0.501961,0.501961);
 
+Step 6:
 
 Credits:
 Thanks to Crosire for his work on ReShade and the plugin(s) I based this off of.
