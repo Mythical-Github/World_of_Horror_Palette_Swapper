@@ -54,5 +54,5 @@ Step 3) Wait for new release to see your palette in the official list!
 Credits:  
 Thanks to Crosire for his work on ReShade and the plugin(s) I based this off of.  
 Thanks to Dae for his help tracking down that float bug!   
-Thanks to RacWade for their Hacker and October color palettes
+Thanks to RacWade for their Hacker and October color palettes\
 Thanks to floatingeye for their readme formatting help 
