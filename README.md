@@ -1,7 +1,7 @@
 # World of Horror Palette Swapper
 A ReShade filter for adding and using alternative palettes in World of Horror  
 Made by Mythical  
-You can contact me via Discord at 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵#4914 to have me add your palettes in or for whatever other reason
+You can contact me via Discord at 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵_𝓐𝓵𝓽#3321 to have me add your palettes in or for whatever other reason
 
 ![World_of_Horror_Palette_Swapper_Example](Palette_Example.gif)
 
@@ -48,7 +48,7 @@ Step 12: Launch the game and enjoy your new custom palette!
 
 ### How to add a palette to the list in this release:  
 Step 1: Follow steps 1-6 of "How to Create a New Palette"  
-Step 2: Send me the name of the palette and the values from Step 5 on discord (𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵#4914) (pictures preferred)  
+Step 2: Send me the name of the palette and the values from Step 5 on discord (𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵_𝓐𝓵𝓽#3321) (pictures preferred)  
 Step 3) Wait for new release to see your palette in the official list!  
 
 Credits:  
